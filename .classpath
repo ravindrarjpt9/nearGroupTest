@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/anilgoyalp-alphaserver-8d83db6306db/WebContent/WEB-INF/lib/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="/anilgoyalp-alphaserver-8d83db6306db/WebContent/WEB-INF/lib/jersey-bundle-1.19.jar" sourcepath="/Users/ravindrarjpt9/.m2/repository/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-sources.jar"/>
+	<classpathentry kind="lib" path="/anilgoyalp-alphaserver-8d83db6306db/WebContent/WEB-INF/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Ravindra/Study/Jars/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Ravindra/Study/Jars/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Ravindra/Study/Jars/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Documents/NearGroup.in/Smack 3.1 API/smack_3_1_0/smack.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Documents/NearGroup.in/Smack 3.1 API/smack_3_1_0/smackx.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Ravindra/Study/Jars/thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/ravindrarjpt9/Ravindra/Study/Jars/mail-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
